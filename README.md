@@ -12,12 +12,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dergah-abdullayev-334803175/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
   </a>
   <a href="https://www.youtube.com/@Az_Voice-Of-Technology" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28">
   </a>
-  <span style="font-size: 18px; margin-left: 6px;">📞 +994708235027</span>
+  <a href="tel:+994708235027">
+    <img src="https://img.shields.io/badge/Phone%20%2B994708235027-F97316?style=for-the-badge&logo=phone&logoColor=white" height="28">
+  </a>
 </p>
 
 <h3 align="left">🚀Dedicated PHP Laravel developer focused on crafting reliable and scalable backend solutions. Skilled in API development, database architecture, and system optimization, ensuring smooth performance and maintainability across all projects.</h3>
@@ -41,10 +43,10 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="36" alt="Docker">
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="36" alt="Bootstrap">
 
-  <!-- Added new skills -->
   <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML">
   <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS">
   <img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript">
+
   <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge" height="28" alt="OOP">
   <img src="https://img.shields.io/badge/CI%2FCD-2F4F4F?style=for-the-badge" height="28" alt="CI/CD">
 </div>
