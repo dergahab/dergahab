@@ -14,11 +14,13 @@
   <a href="https://www.linkedin.com/in/dergah-abdullayev-334803175/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
   </a>
-  <a href="https://www.youtube.com/@Az_Voice-Of-Technology" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28">
+
+  <a href="mailto:dergah.ab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dergah.ab@gmail.com-31EBA9?style=for-the-badge&logo=gmail&logoColor=white" height="28">
   </a>
+
   <a href="tel:+994708235027">
-    <img src="https://img.shields.io/badge/Phone%20%2B994708235027-F97316?style=for-the-badge&logo=phone&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/Phone%20%2B994708235027-0D61DB?style=for-the-badge&logo=phone&logoColor=white" height="28">
   </a>
 </p>
 
