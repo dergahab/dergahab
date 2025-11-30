@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
   </a>
 
-  <a href="mailto:dergah.ab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dergah.ab@gmail.com-54A16E?style=for-the-badge&logoColor=white" height="28">
+ <a href="mailto:dergah.ab@gmail.com">
+    <img src="https://img.shields.io/badge/dergah.ab@gmail.com-54A16E?style=for-the-badge&logoColor=white" height="28">
   </a>
 
   <a href="tel:+994708235027">
