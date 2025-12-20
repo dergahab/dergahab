@@ -29,7 +29,7 @@
 <h3 align="left">Rapid Fire</h3>
 
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Java / SpringBoot**
+- 🌱 I'm currently learning: **📚 C# **
 - 💬 Ask me about: **💡 PHP, Laravel, MySql, MongoDB, and RESTful APIs**
 
 <h3 align="left">Skills</h3>
